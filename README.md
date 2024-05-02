@@ -1,6 +1,10 @@
-# General Python Code
+# Python Code Written by Alexander Kalaj
 
-This repository is dedicated to small Python 3.7 coding challenges and examples for my own personal reference
+This repository features Python code written by Alexander Kalaj.
 
-<b>challenges</b> - Single file coding challenges in Python
-<b>projects</b> - Coding projects involving multiple files written in Python
+The contents of this directory is meant to showcase the Python proficiency of Mr.Kalaj with regards to DevOps and Site Reliability Engineering.
+
+| Directories | Description |
+| - | - |
+| [challenges](https://github.com/excircle/python/tree/master/challenges) | Single file coding challenges in Python |
+| [projects](https://github.com/excircle/python/tree/master/projects) | Python coding projects showcasing various data driven skills |
